@@ -11,4 +11,4 @@
 * A type of encryption where the key is the length of the message to ensure that the file is secure.
 5. Key:metal:
 * A message or number that encrypts the plain text into cipher text.
-[Encryption Picture](encryption.jpeg)
+![Encryption Picture](encryption.jpeg)
