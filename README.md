@@ -1,5 +1,5 @@
-# test
-> Vocab words (Encryption)
+# Vocab Words
+> Encryption
 :+1:
 1. Caesar Cipher:rocket:
 * A encryption method that shifts the alphebet the number that the key represents
