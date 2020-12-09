@@ -12,4 +12,5 @@
 5. Key:metal:
 * A message or number that encrypts the plain text into cipher text.
 <br/>
+
 ![Encryption Picture](encryption.jpeg)
