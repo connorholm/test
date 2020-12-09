@@ -1,7 +1,7 @@
 # test
 > Test for cyber class
 
-* This 
-* Is
+1. This 
+2. Is
 * A 
 * List
